@@ -1,3 +1,4 @@
+-- Process
 process (CLK)
 begin
 	if CLK'event and CLK='1' then
